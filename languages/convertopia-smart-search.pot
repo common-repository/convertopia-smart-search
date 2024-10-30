@@ -1,0 +1,491 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Convertopia Smart Search 1.0.0\n"
+"POT-Creation-Date: 2024-9-10 12:11+0600\n"
+"PO-Revision-Date: 2024-9-10 12:12+0600\n"
+"Last-Translator: \n"
+"Language-Team: Convertopia <support@convertopia.com>\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.4.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-KeywordsList: __;_e;_ex;_n;_nx;_n_noop;esc_html__;esc_html_e;"
+"esc_html_x;esc_attr__;esc_attr_e;esc_attr_x;number_format_i18n\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/class-convertopia.php:461
+msgid "My Plugin Settings"
+msgstr ""
+
+#: includes/class-convertopia.php:472
+msgid "Custom Registration Page Slug"
+msgstr ""  
+
+#: includes/class-convertopia.php:488
+msgid "Additional Consent"
+msgstr ""
+
+#: includes/class-convertopia.php:492
+msgid "I agree to the convertopia consent terms"
+msgstr ""
+
+#: includes/customer-feed:165
+msgid "Could not access filesystem."
+msgstr ""
+
+#: includes/order-feed:234
+msgid "Could not access filesystem."
+msgstr ""
+
+#: includes/product-feed:121
+msgid "Unable to write CSV file"
+msgstr ""
+
+#: includes/product-feed:84
+msgid "Unable to initialize WP_Filesystem"
+msgstr ""
+
+#: templates/convertopia-feeds.php:15
+msgid "Convertopia Feeds"
+msgstr ""
+
+#: templates/convertopia-feeds.php:32
+msgid "Save Config"
+msgstr ""
+
+#: templates/convertopia-feeds.php:33
+msgid "Save Config"
+msgstr ""
+
+#: templates/convertopia-feeds.php:44
+msgid "Scheduled Export"
+msgstr ""
+
+#: templates/convertopia-feeds.php:57
+msgid "Customer"
+msgstr ""
+
+#: templates/convertopia-feeds.php:67
+msgid "Frequency"
+msgstr ""
+
+#: templates/convertopia-feeds.php:70
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:76
+msgid "Daily"
+msgstr ""
+
+#: templates/convertopia-feeds.php:77
+msgid "Weekly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:78
+msgid "Monthly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:88
+msgid "Start Time"
+msgstr ""
+
+#: templates/convertopia-feeds.php:91
+msgid "[store view]"
+msgstr ""
+
+
+#: templates/convertopia-feeds.php:129
+msgid "Orders"
+msgstr ""
+
+#: templates/convertopia-feeds.php:139
+msgid "Frequency"
+msgstr ""
+
+#: templates/convertopia-feeds.php:143
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:148
+msgid "Daily"
+msgstr ""
+
+#: templates/convertopia-feeds.php:149
+msgid "Weekly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:150
+msgid "Monthly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:160
+msgid "Start Time"
+msgstr ""
+
+#: templates/convertopia-feeds.php:163
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:201
+msgid Products"
+msgstr ""
+
+#: templates/convertopia-feeds.php:211
+msgid Frequency"
+msgstr ""
+
+
+#: templates/convertopia-feeds.php:214
+msgid [store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:220
+msgid Daily"
+msgstr ""
+
+#: templates/convertopia-feeds.php:221
+msgid Weekly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:222
+msgid Monthly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:232
+msgid Start Time"
+msgstr ""
+
+#: templates/convertopia-feeds.php:235
+msgid [store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:277
+msgid "Scheduled Delta Export"
+msgstr ""
+
+#: templates/convertopia-feeds.php:290
+msgid "Customer"
+msgstr ""
+
+#: templates/convertopia-feeds.php:300
+msgid "Frequency"
+msgstr ""
+
+#: templates/convertopia-feeds.php:303
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:309
+msgid "daily"
+msgstr ""
+
+#: templates/convertopia-feeds.php:310
+msgid "weekly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:311
+msgid "monthly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:321
+msgid "Start Time"
+msgstr ""
+
+#: templates/convertopia-feeds.php:324
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:364
+msgid "Orders"
+msgstr ""
+
+#: templates/convertopia-feeds.php:374
+msgid "Frequency"
+msgstr ""
+
+#: templates/convertopia-feeds.php:376
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:383
+msgid "Daily"
+msgstr ""
+
+#: templates/convertopia-feeds.php:384
+msgid "Weekly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:385
+msgid "Monthly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:395
+msgid "Start Time"
+msgstr ""
+
+#: templates/convertopia-feeds.php:398
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:435
+msgid "Products"
+msgstr ""
+
+#: templates/convertopia-feeds.php:442
+msgid "Frequency"
+msgstr ""
+
+#: templates/convertopia-feeds.php:444
+msgid "Daily"
+msgstr ""
+
+#: templates/convertopia-feeds.php:445
+msgid "Weekly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:446
+msgid "Monthly"
+msgstr ""
+
+#: templates/convertopia-feeds.php:454
+msgid "Start Time"
+msgstr ""
+
+#: templates/convertopia-feeds.php:457
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-feeds.php:499
+msgid "Feeds"
+msgstr ""
+
+#: templates/convertopia-feeds.php:504
+msgid "Generate Customer Feed"
+msgstr ""
+
+#: templates/convertopia-feeds.php:505
+msgid "Generate Product Feed"
+msgstr ""
+
+#: templates/convertopia-feeds.php:506
+msgid "Generate Order Feed"
+msgstr ""
+
+#: templates/convertopia-feeds.php:507
+msgid "Generate Customer Feed Delta"
+msgstr ""
+
+#: templates/convertopia-feeds.php:508
+msgid "Generate Product Feed Delta"
+msgstr ""
+
+#: templates/convertopia-feeds.php:509
+msgid "Generate Order Feed Delta"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:15
+msgid "Convertopia Recommendations"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:25
+msgid "Save Config"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:36
+msgid "User Recommendations"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:46
+msgid "Enable"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:49
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:56
+msgid "Yes"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:57
+msgid "No"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:67
+msgid "Heading"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:70
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:85
+msgid "Product Tiles in Row"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:88
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:112
+msgid "Select pages where you want to show product tiles"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:115
+msgid "[store view]"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:121
+msgid "Product Page"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:122
+msgid "Category Page"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:123
+msgid "Category Page"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:124
+msgid "Account Info"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:125
+msgid "Billing Info"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:126
+msgid "Delivery Info"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:127
+msgid "Recent Orders"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:128
+msgid "Login"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:129
+msgid "Sign Up"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:130
+msgid "Contact Us"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:131
+msgid "Cart Page"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:132
+msgid "Order Success  Page"
+msgstr ""
+
+#: templates/convertopia-recommendations.php:133
+msgid "404 Page"
+msgstr ""
+
+#: templates/convertopia-search-results.php:22
+msgid "Search Results"
+msgstr ""
+
+#: templates/convertopia-search-results.php:43
+msgid "No Products Found"
+msgstr ""
+
+
+#: templates/convertopia-search-results.php:44
+msgid "Sorry, no products were found matching your search criteria."
+msgstr ""
+
+#: templates/convertopia-settings.php:50
+msgid "FTP Settings"
+msgstr ""
+
+#: templates/convertopia-settings.php:54
+msgid "FTP Host:"
+msgstr ""
+
+#: templates/convertopia-settings.php:59
+msgid "Your FTP Host"
+msgstr ""
+
+#: templates/convertopia-settings.php:64
+msgid "FTP Username:"
+msgstr ""
+
+#: templates/convertopia-settings.php:69
+msgid "Your FTP Username"
+msgstr ""
+
+#: templates/convertopia-settings.php:74
+msgid "FTP Password:"
+msgstr ""
+
+#: templates/convertopia-settings.php:79
+msgid "Your FTP Password"
+msgstr ""
+
+#: templates/convertopia-settings.php:84
+msgid "FTP Port:"
+msgstr ""
+
+#: templates/convertopia-settings.php:89
+msgid "Your FTP Port"
+msgstr ""
+
+#: templates/convertopia-settings.php:94
+msgid "FTP Path:"
+msgstr ""
+
+#: templates/convertopia-settings.php:99
+msgid "Your FTP Path"
+msgstr ""
+
+#: templates/convertopia-settings.php:104
+msgid "Convertopia Store Settings"
+msgstr ""
+
+#: templates/convertopia-settings.php:108
+msgid "Store ID:"
+msgstr ""
+
+#: templates/convertopia-settings.php:113
+msgid "Your Convertopia Store Id"
+msgstr ""
+
+#: templates/convertopia-settings.php:118
+msgid "Client Key:"
+msgstr ""
+
+#: templates/convertopia-settings.php:123
+msgid "Your Convertopia Client Key"
+msgstr ""
+
+#: templates/convertopia-settings.php:128
+msgid "Client Secret Key:"
+msgstr ""
+
+#: templates/convertopia-settings.php:133
+msgid "Your Convertopia Client Secret Key"
+msgstr ""
+
+#: templates/convertopia-settings.php:138
+msgid "CDN URL:"
+msgstr ""
+
+#: templates/convertopia-settings.php:143
+msgid "Your Convertopia CDN URL"
+msgstr ""
+
+#: templates/convertopia-settings.php:148
+msgid "Service URL:"
+msgstr ""
+
+#: templates/convertopia-settings.php:153
+msgid "Your Convertopia Service URL"
+msgstr ""
